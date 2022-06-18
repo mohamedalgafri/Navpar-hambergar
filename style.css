@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+
+nav{
+    height: 10vh;
+    background: #5b78c7;
+}
+
+.nav-link{
+    display: flex;
+    list-style: none;
+}
+
+.nav-link li a{
+    color: aliceblue;
+    text-decoration: none; 
+    padding: 10px;
+    font-size: 16px;
+}
+
